@@ -56,6 +56,7 @@ Websites that offer free fonts as well as font based tools
 | [Tiff](https://tiff.herokuapp.com/)| A type diff tool that visually contrasts the differences between two fonts. |
 | [Font Flame](http://app.fontflame.com/)| Tool for pairing fonts to see how they look together |
 | [TypeKit Practice](https://practice.typekit.com/)| Learn about typography practices |
+| [FontsKey](https://www.fontskey.com/)| Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering. |
 
 ## Icons
 
